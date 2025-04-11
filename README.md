@@ -88,9 +88,3 @@ To test:
 - Use \`getEntriesBetween()\` with different timestamps
 
 ---
-
-## 📜 License
-
-MIT
-
-EOF
